@@ -32,7 +32,7 @@ The notebook available here showcases work related to the above questions.
 
 ## Results
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@moulikaachhe/few-insights-depicts-the-better-programmer-career-fc8f9dd05371).
 
 ## Licensing, Authors, Acknowledgements
 
