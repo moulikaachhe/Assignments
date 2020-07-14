@@ -11,16 +11,20 @@ Project in Data Scientist Nanodegree of Udacity
 
 ## Installation 
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Python versions 3.*.
+
+Libraries:
+Pandas.
+numpy.
+matplotlib.
 
 ## Project Motivation
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. As a programmer, should I go to work in the western world (e.g. America, Europe, etc.) or remain in the eastern world (e.g. India, China, etc.)?
-2. What is the salary difference within the western world and the eastern world?
-3. How are the programmers satisfying about their job between these two sides of the world?
-4. Are there more employments opportunity within the western world than that within the eastern world?
+1. What are the most common languages used by professional developers?
+2. What is the average salary for each programming language?
+3. Which programming language has the highest job satisfaction?
 
 ## File Descriptions
 
